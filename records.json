@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Amit K Sharma",
+        "course": "MCA",
+        "age": 22,
+        "marks": 90.0
+    },
+    {
+        "id": 2,
+        "name": "Rahul Kumar",
+        "course": "BSc IT",
+        "age": 21,
+        "marks": 75.0
+    },
+    {
+        "id": 3,
+        "name": "Rohan Sharma",
+        "course": "MCA",
+        "age": 23,
+        "marks": 80.0
+    },
+    {
+        "id": 4,
+        "name": "Sahil Gaikwad",
+        "course": "MCA",
+        "age": 19,
+        "marks": 70.0
+    },
+    {
+        "id": 5,
+        "name": "Priya Sharma",
+        "course": "BSCIT",
+        "age": 19,
+        "marks": 67.0
+    }
+]
