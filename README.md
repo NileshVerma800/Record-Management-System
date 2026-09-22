@@ -97,8 +97,11 @@ ID   Name                Course              Age   Marks
 2    Rahul Kumar         BSc IT              21    75.0
 ```
 ## Screenshots
+1. Add Record
 <img width="1263" height="733" alt="AddRecord png" src="https://github.com/user-attachments/assets/b9d31ef5-4ba2-4ecd-ab07-fed1434f859e" />
+2.Search Record
 <img width="1276" height="764" alt="SearchRecord png" src="https://github.com/user-attachments/assets/5dec962f-db61-4ce1-af9f-bd699f0414c2" />
+3.All Records
 <img width="1280" height="765" alt="ViewAllRecords png" src="https://github.com/user-attachments/assets/c03f2345-a217-44f6-866c-1812ceea5bdd" />
 
 ## GitHub Repository
