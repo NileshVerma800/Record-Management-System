@@ -97,8 +97,8 @@ ID   Name                Course              Age   Marks
 2    Rahul Kumar         BSc IT              21    75.0
 ```
 
-*(Add screenshots of the running application here before submission.)*
+
 
 ## GitHub Repository
 
-Repository link: _add your GitHub repository URL here before submission_
+Repository link:(https://github.com/NileshVerma800/Record-Management-System/)
